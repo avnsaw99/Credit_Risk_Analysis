@@ -4,16 +4,12 @@
 
 # Results
 
-<img width="424" alt="Screen Shot 2022-10-10 at 2 37 43 AM" src="https://user-images.githubusercontent.com/15044088/194838051-54bac03e-5d47-4ac2-996c-69926672c001.png">
+<img width="659" alt="Screen Shot 2022-10-10 at 3 38 05 AM" src="https://user-images.githubusercontent.com/15044088/194847875-fb5adf45-1bfd-4712-87d4-22a349a0ceb6.png">
 
-<img width="476" alt="Screen Shot 2022-10-10 at 2 51 12 AM" src="https://user-images.githubusercontent.com/15044088/194840031-a3ce17cb-366c-4245-afdd-267009a54424.png">
+<img width="705" alt="Screen Shot 2022-10-10 at 3 39 07 AM" src="https://user-images.githubusercontent.com/15044088/194848044-d3f6288e-ce1f-4d71-8173-2897adc7be00.png">
 
-<img width="434" alt="Screen Shot 2022-10-10 at 2 38 39 AM" src="https://user-images.githubusercontent.com/15044088/194838078-26cb84ab-070d-4042-a609-877f6e4c0cb8.png">
+<img width="680" alt="Screen Shot 2022-10-10 at 3 41 52 AM" src="https://user-images.githubusercontent.com/15044088/194848628-b645f572-7df2-4170-979f-b892ea6de0db.png">
 
-<img width="363" alt="Screen Shot 2022-10-10 at 2 38 51 AM" src="https://user-images.githubusercontent.com/15044088/194838112-bf82231f-7ff9-4f4c-9b2a-b3163b2d5196.png">
+<img width="696" alt="Screen Shot 2022-10-10 at 3 43 42 AM" src="https://user-images.githubusercontent.com/15044088/194848772-afe53d20-b28d-4846-a5db-ed6720353294.png">
 
-<img width="432" alt="Screen Shot 2022-10-10 at 2 39 01 AM" src="https://user-images.githubusercontent.com/15044088/194838134-47d6906c-f1bb-4aba-bb1c-9d7d911aaf3c.png">
-
-<img width="427" alt="Screen Shot 2022-10-10 at 2 39 14 AM" src="https://user-images.githubusercontent.com/15044088/194838180-4db401c4-c6ad-4c4e-bd80-ebdeb2992420.png">
-
-
+<img width="716" alt="Screen Shot 2022-10-10 at 3 44 46 AM" src="https://user-images.githubusercontent.com/15044088/194848934-4dd08f96-ed2a-48cc-80b2-e1d141c2bd55.png">
