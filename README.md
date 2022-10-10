@@ -1,6 +1,8 @@
 # Credit_Risk_Analysis
 
 # Overview
+ 
+Using Jupyter Notebook (Machine Learning) to provide a deep dive on whether an individual is of high credibility based on crdit or not. 
 
 # Results
 
@@ -29,3 +31,5 @@
 <img width="661" alt="Screen Shot 2022-10-10 at 3 59 29 AM" src="https://user-images.githubusercontent.com/15044088/194851597-37171666-930a-4ba1-887b-056cd4963680.png">
 
 # Summary
+
+According to the pictures above, the Easy Ensemble AdaBoost Classifier yielded the best results with the highest score and rates amongst all other models, at 91%
